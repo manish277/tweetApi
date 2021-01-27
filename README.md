@@ -1,2 +1,2 @@
 # tweetApi
-to strart project: npm run start
+to start project: npm run start
